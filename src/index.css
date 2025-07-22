@@ -1,0 +1,17 @@
+@font-face{
+ font-family: 'yakan';
+ src:url('./assets/Fonts/Yekan.ttf');
+}
+@font-face {
+    font-family: 'lalazar' ;
+    src: url('./assets/Fonts/Lalezar.otf');
+}
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'yakan', sans-serif;
+}
